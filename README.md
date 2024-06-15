@@ -1,24 +1,23 @@
-# p04-quiz-game
+<h1 align="center">Quiz Game</h1>
 
-## Project setup
-```
-npm install
-```
+<p align="center">
+  <img alt="Quiz Game" src=".github/thumb-proj.png" width="100%">
+</p>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🚀 Tecnologias
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### Lints and fixes files
-```
-npm run lint
-```
+- HTML
+- CSS
+- JavaScript
+- Axios
+- VueJS
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 💻 Projeto
+
+Um projeto simples feito com VueJS de um jogo de perguntas e respotas usando a API do Open Trivia (https://opentdb.com/api).
+
+---
+
+Feito com ♥ by Cleber-Risu
